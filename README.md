@@ -1,4 +1,4 @@
-# drop-extnames [![version][npm-version]][npm-url] [![License][license-image]][license-url]
+# drop-extnames
 
 Because I needed to drop all extnames from path too many times.
 
