@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "name": "drop-extnames",
+  "description": "Drops all extnames from file path.",
+  "author": "Tigran Atayan <tigran.a.atayan@gmail.com>",
+  "homepage": "https://github.com/t10ko/drop-extnames",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t10ko/drop-extnames.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "keywords": [
+    "drop",
+    "delete",
+    "complete",
+    "extnames",
+    "extname",
+    "extensions",
+    "extension",
+    "path",
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "lib"
+  ],
+  "bugs": {
+    "url": "https://github.com/t10ko/drop-extnames/issues"
+  }
+}
